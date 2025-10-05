@@ -7,7 +7,7 @@ Interactive X/O grid with win detection—built with React + Vite.
 - 
 
 ## Live Demo
-[Coming soon!](https://your-url-here)
+[Live Demo]([https://your-url-here](https://react-tic-tac-toe-one-wheat.vercel.app/))
 
 ## Tech Stack
 - React 19
