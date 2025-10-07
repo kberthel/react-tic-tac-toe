@@ -6,10 +6,10 @@ A classic X vs. O grid battle, powered by React hooks for state management and w
 
   
 
-![Screenshot of Gameplay](https://raw.githubusercontent.com/kberthel/react-tic-tac-toe/main/public/Screenshot1.png =400x)
+![Screenshot of Gameplay](public/Screenshot1.png =400x300)
 
 
-![Screenshot of Gameplay](https://raw.githubusercontent.com/kberthel/react-tic-tac-toe/main/public/Screenshot2.png =400x)  
+![Screenshot of Gameplay](public/Screenshot2.png =400x300)  
 
 ## Live Demo
 [Play Now! (Vercel)](https://tic-tac-toe-kberthel.vercel.app/)
