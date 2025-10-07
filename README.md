@@ -6,9 +6,9 @@ A classic X vs. O grid battle, powered by React hooks for state management and w
 
   
 
-![Screenshot of Gameplay](https://raw.githubusercontent.com/kberthel/react-tic-tac-toe/main/public/Screenshot1.png)  
+<img src="public/Screenshot1.png" alt="Screenshot of Gameplay" width="400" height="auto">
 
-![Screenshot of Gameplay](https://raw.githubusercontent.com/kberthel/react-tic-tac-toe/main/public/Screenshot2.png)  
+<img src="public/Screenshot2.png" alt="Screenshot of Gameplay" width="400" height="auto">
   
 
 ## Live Demo
