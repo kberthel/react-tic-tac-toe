@@ -12,7 +12,7 @@ A classic X vs. O grid battle, powered by React hooks for state management and w
   
 
 ## Live Demo
-[Play Now! (Vercel)](https://react-tic-tac-toe-one-wheat.vercel.app/)
+[Play Now! (Vercel)](https://tic-tac-toe-kberthel.vercel.app/)
 
 [Play Now!](https://kberthel.github.io/react-tic-tac-toe)  
 
